@@ -5,7 +5,7 @@ This repository contains the Docker image for [Your Application Name].
 📌 Application Source Code
 The source code for this application is available at:
 
-🔗 https://github.com/NithyaShree0007/Laravel11-E-Commerce-Project
+🔗 [GitHub Repository of Laravel11-Ecommerce-Project](https://github.com/NithyaShree0007/Laravel11-E-Commerce-Project)
 
 🐳 Pull & Run the Docker Image
 
@@ -33,4 +33,4 @@ Open in browser:
 
 📦 DockerHub Repository
 
-🔗 nithu007/laravel11-ecommerce-site
+🔗 [DockerHub Repository of Laravel11-Ecommerce-Project](nithu007/laravel11-ecommerce-site)
